@@ -1,3 +1,3 @@
 # GroceryAppSharedDTO
 
-A description of this package.
+Register and login response DTOs.
